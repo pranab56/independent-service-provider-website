@@ -13,7 +13,7 @@ const Review = () => {
                     <div className="col-lg-4 ">
                         <div className="card bg-1">
                             <div>
-                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> Jakaria is so great . The Best Trainer I've Ever met!! <i className="fa-solid fa-quote-right"></i></p>
+                                <p className='text-center'><i className="fa-solid fa-quote-left"></i> pranab is so great . The Best Trainer I've Ever met!! <i className="fa-solid fa-quote-right"></i></p>
                             </div>
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic1} alt="" />
