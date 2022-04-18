@@ -18,7 +18,7 @@ const Review = () => {
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic1} alt="" />
                             </div>
-                            <h6 className='text-center text-orchid'>Flowers Tyson</h6>
+                            <h6 className='text-center text-orchid'>Flowers Tysan</h6>
                         </div>
                     </div>
                     <div className="col-lg-4 ">
@@ -29,7 +29,7 @@ const Review = () => {
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic3} alt="" />
                             </div>
-                            <h6 className='text-center text-orchid'>Joy Medina</h6>
+                            <h6 className='text-center text-orchid'>Joy Medjina</h6>
                         </div>
                     </div>
                     <div className="col-lg-4 ">
@@ -40,7 +40,7 @@ const Review = () => {
                             <div className='d-flex justify-content-center'>
                                 <img className='rounded-circle' src={pic2} alt="" />
                             </div>
-                            <h6 className='text-center text-orchid'>Tammie Ortiz</h6>
+                            <h6 className='text-center text-orchid'>Tammiya Ortiz</h6>
                         </div>
                     </div>
                 </div>
