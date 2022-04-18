@@ -60,7 +60,7 @@ const Login = () => {
                     </div>
                     <button className='container border-0 mt-4 btn-primary'>Login</button>
                     <div className='d-flex justify-content-center font mt-2'>
-                        <small>New to gym trainer?</small><CustomLink className='link-color ms-2 fw-bold' to='/signUp'>Create new Account</CustomLink>
+                        <small>New to Gym trainer?</small><CustomLink className='link-color ms-2 fw-bold' to='/signUp'>Create new Account</CustomLink>
                     </div>
                     <div className='d-flex justify-content-center align-items-center font'>
                         <small>Forget Password?</small>
