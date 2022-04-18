@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@400;500;600&family=Square+Peg&display=swap');
+
+li {
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.font-family {
+    font-family: 'Pacifico', cursive;
+    color: red;
+}
+
+.btn-pink {
+    border: none;
+    background-color: yellow;
+    color: black !important;
+    padding: 5px 10px;
+}
+
+.btn-margin {
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 550px) {
+    .btn-margin {
+        margin: 20px;
+    }
+}

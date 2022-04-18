@@ -1,0 +1,44 @@
+[
+  {
+    "id": "625b216695bd8df3d7b76aab",
+    "img": "serviceImage/1.png",
+    "name": "Abs Workout",
+    "price": 50,
+    "description": "Abdominal exercises are a type of strength exercise that affect the abdominal muscles (colloquially known as the stomach muscles or Abs)"
+  },
+  {
+    "id": "625b216607b87211aec773a8",
+    "img": "serviceImage/2.png",
+    "name": "Arms Workout",
+    "price": 70,
+    "description": "Working out your arms and shoulders has many benefits. It can increase your muscle strength, muscle tone, and lean muscle mass."
+  },
+  {
+    "id": "625b21665b969c93762b74ec",
+    "img": "serviceImage/3.png",
+    "name": "Legs Workout",
+    "price": 60,
+    "description": "The leg exercises benefits are:- Maintains good body symmetry. Prevents osteoporosis and maintains good bone health. Makes joints stronger"
+  },
+  {
+    "id": "625b21663339c35ddb53554d",
+    "img": "serviceImage/4.png",
+    "name": "Chest Workout",
+    "price": 80,
+    "description": "Chest muscle exercises are performed to help these muscles develop and grow, along with maintaining a healthy and fit body."
+  },
+  {
+    "id": "625b2166d8dbf1cd18d65f82",
+    "img": "serviceImage/5.png",
+    "name": "Running Workout",
+    "price": 60,
+    "description": "Health Benefits of Running:- Stimulates bone formation. When we run the stress on our bones increases through repetitive loading."
+  },
+  {
+    "id": "625b21661e88f0462f414b91",
+    "img": "serviceImage/6.png",
+    "name": "Back Workout",
+    "price": 40,
+    "description": "Back strengthening exercises help to strengthen these supporting muscles in order to prevent straining soft tissues and provide sufficient ..."
+  }
+]

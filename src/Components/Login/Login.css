@@ -1,0 +1,43 @@
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.login{
+    width: 300px;
+    height: 450px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+}
+
+.line{
+    line-height: 10px;
+}
+
+hr{
+    width: 100px;
+}
+
+.link-color{
+    color: turquoise !important;
+}
+
+.font{
+    font-size: 11px;
+}
+
+.text-orchid{
+    color: darkorchid;
+}
+
+/* .btn-darkOrchid{
+    background-color: darkorchid;
+    color: white;
+    border: none;
+}
+
+.btn-darkOrchid:hover{
+    background-color: darkmagenta;
+} */

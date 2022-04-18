@@ -1,0 +1,15 @@
+.checkout{
+    width: 500px;
+    height: 580px;
+    border-radius: 10px;
+}
+
+.checkout-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linee{
+    line-height: 28px;
+}
