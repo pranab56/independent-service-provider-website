@@ -28,7 +28,7 @@ const Blogs = () => {
             <div className='container mt-4'>
                 <h4>2. Why are you using firebase? What other options do you have to implement authentication.?</h4>
                 <div className='mt-4'>
-                    <p>Firebase Authentication makes it easier to get your users signed-in without having to understand the complexities behind implementing your own authentication system.</p>
+                    <p>Firebase Authentication makes it easier to get your users signed-in without having to understand the complexities behind implementing your Own authentication system.</p>
                     <p><span className='fw-bold'>5 Common Authentication Types:-</span> <br />
                         <div className='ms-3'>
                             1. Password-based authentication. <br />
