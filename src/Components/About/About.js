@@ -12,10 +12,10 @@ const About = () => {
                     <img className='border rounded-circle img' src={Avatar} alt="" />
                 </div>
                 <div>
-                    <h5 className='text-center text-orchid'>Abu Jakaria</h5>
+                    <h5 className='text-center text-orchid'>pranab kumar</h5>
                 </div>
                 <div className='container mt-5 d-flex justify-content-center'>
-                    <p>Hey there, I am <span className='fw-bold'>Abu Jakaria</span> a student of Computer Science and Technology at Dhaka Polytechnic Institute. In 2022 , I set a Goal . <br /> That goal is to acquire some of my own skills and to do a good job with that skill. For that I enroll in this course and keep trying will my best.</p>
+                    <p>Hey there, I am <span className='fw-bold'>pranab kumar</span> a student of Computer Science and Technology at Dhaka Polytechnic Institute. In 2022 , I set a Goal . <br /> That goal is to acquire some of my own skills and to do a good job with that skill. For that I enroll in this course and keep trying will my best.</p>
                 </div>
                 
             </div>
